@@ -1,3 +1,5 @@
+# Project Based Virtual Intern: Data Scientist Kalbe Nutritionals X Rakamin Academy
+This project conduct to predict daily sales of Kalbe products using  Machine Learning Regression (Time Series), create customer segmentation using K-Means, and Exploratory Data Analysis  Using Python, Postgre SQL, and Tableau. 
 # **Tableau Dashboard**
 Link Dashboard Tableau : https://public.tableau.com/views/FINALDASHBOARDKALBEVIX/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
