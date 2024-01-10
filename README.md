@@ -3,4 +3,5 @@ This project conduct to predict daily sales of Kalbe products using  Machine Lea
 # **Tableau Dashboard**
 Link Dashboard Tableau : https://public.tableau.com/views/FINALDASHBOARDKALBEVIX/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-![Dashboard 1](https://github.com/zulfaikarF99/VIX-Kalbe-Forecasting-and-Clustering/assets/101247674/ffdb1350-a7d4-4f81-a920-d60ad0d305b3)
+![Dashboard 1](![image](https://github.com/zulfaikarF99/VIX-Kalbe-Forecasting-and-Clustering/assets/101247674/d544a6e7-61f8-4b34-8c24-7c131dc03382)
+)
